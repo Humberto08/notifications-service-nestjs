@@ -20,7 +20,7 @@ Para executar o projeto:
 
 1 - Clone o respositório:
 ```bash 
-git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
+git clone https://github.com/Humberto08/notifications-service-nestjs.git
 ```
 
 2 - Intale as dependências:

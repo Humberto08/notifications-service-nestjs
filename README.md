@@ -18,7 +18,7 @@ A API foi desenvolvida utilizando o `nestjs` e `nodejs`, junto das seguintes lib
 Para executar o projeto:
 
 1 - Clone o respositório: 
-git clone [<URL_DO_REPOSITORIO>](https://github.com/Humberto08/notifications-service-nestjs.git)
+git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
 
 
 2 - Intale as dependências:
@@ -67,24 +67,6 @@ Prisma: https://www.prisma.io/
 
 Sqlite: https://www.sqlite.org/
 
-
-#  NOTIFICATIONS-SERVICE
-
-
-Um serviço de notificações desenvolvido utilizando o framework NestJS. Este projeto tem como objetivo fornecer uma arquitetura escalável e modular para gerenciar notificações.
-
-
-# Objetivo
-
-Desenvolver um serviço de notificações utilizando o framework NestJS, com o objetivo de fornecer uma arquitetura escalável e modular para gerenciar notificações.
-
-
-## Stack utilizada
-### BACK_END ###
-
-
-- [JavaScript](https://devdocs.io/javascript/)
-- [NodeJs](https://nodejs.org/pt)
 
 ## Autores e colaboradores
 

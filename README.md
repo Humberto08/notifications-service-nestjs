@@ -20,7 +20,7 @@ Para executar o projeto:
 
 1 - Clone o respositório:
 ```bash 
-git clone https://github.com/Humberto08/notifications-service-nestjs.git
+git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
 ```
 
 2 - Intale as dependências:
@@ -32,10 +32,10 @@ npm install
 ```
 npm run start:dev
 ```
+
+4 - Acesse o serviço em:
 ```
-4 - Acesse o serviço em 
-```
-http://localhost:3000.
+ http://localhost:3000.
 ```
 
 ## Testes
@@ -60,7 +60,10 @@ Para subir a API, execute:
 ```
 npm run start:dev
 ```
-e acesse:http://localhost:3000.
+e acesse:
+```
+http://localhost:3000.
+```
 
 
 # Referências

@@ -1,0 +1,99 @@
+# NOTIFICATIONS-SERVICE
+### Quem é o NestJs?
+NestJS é um framework de desenvolvimento de aplicativos Node.js que utiliza TypeScript como linguagem principal. Inspirado por conceitos de programação orientada a objetos (OOP), programação funcional (FP) e arquitetura modular, NestJS facilita a criação de aplicações escaláveis e de fácil manutenção.
+
+
+# Projeto
+## Notifications-service
+
+Um serviço de notificações desenvolvido utilizando o framework NestJS. Este projeto tem como objetivo fornecer uma arquitetura escalável e modular para gerenciar notificações.
+
+
+## Stack da API
+
+A API foi desenvolvida utilizando o `nestjs` e `nodejs`, junto das seguintes libs: `typescript`, `jest`. Para salvar os dados está sendo utilizando o `sqlite`, por meio da ORM `prisma`.
+
+## Execução da API
+
+Para executar o projeto:
+
+1 - Clone o respositório: 
+git clone [<URL_DO_REPOSITORIO>](https://github.com/Humberto08/notifications-service-nestjs.git)
+
+
+2 - Intale as dependências:
+```bash
+npm install
+
+3 - Inicie o servidor em modo de desenvolvimento:
+npm run start:dev
+
+4 - Acesse o serviço em http://localhost:3000.
+
+
+
+## Testes
+
+## Executa os testes usando Jest.
+``bash
+npm run test
+
+## Executa os testes em modo watch.
+npm run test:watch
+
+## Executa os testes e gera um relatório de cobertura.
+npm run test:cov
+
+
+## API
+
+Para subir a API, execute:
+```bash
+npm run start:dev
+
+```
+e acesse:http://localhost:3000.
+
+
+# Referências
+
+NestJS: https://nestjs.com/
+
+NodeJS: https://nodejs.org/pt
+
+Jest: https://jestjs.io/pt-BR/
+
+Prisma: https://www.prisma.io/
+
+Sqlite: https://www.sqlite.org/
+
+
+#  NOTIFICATIONS-SERVICE
+
+
+Um serviço de notificações desenvolvido utilizando o framework NestJS. Este projeto tem como objetivo fornecer uma arquitetura escalável e modular para gerenciar notificações.
+
+
+# Objetivo
+
+Desenvolver um serviço de notificações utilizando o framework NestJS, com o objetivo de fornecer uma arquitetura escalável e modular para gerenciar notificações.
+
+
+## Stack utilizada
+### BACK_END ###
+
+
+- [JavaScript](https://devdocs.io/javascript/)
+- [NodeJs](https://nodejs.org/pt)
+
+## Autores e colaboradores
+
+- [@Humberto Luciano](https://www.github.com/Humberto08)
+
+
+<div id='contatos' align="center">
+  <p align="center">Made with 💜 by Humberto Luciano</p>
+  <div id="contatos" align="center">
+    <a href="https://www.linkedin.com/in/humberto-luciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+

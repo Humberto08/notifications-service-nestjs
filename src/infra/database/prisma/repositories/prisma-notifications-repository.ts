@@ -7,6 +7,9 @@ import { PrismaNotificationMapper } from '../mappers/prisma-notification-mappers
 @Injectable()
 export class PrismaNotificationsRepository implements NotificationsRepository {
   constructor(private PrismaService: PrismaService) {}
+  async countManyByRecipientId(recipientId: string): Promise<number> {
+    throw new Error('Method not implemented.');
+  }
   async save(notification: Notification): Promise<void> {
     throw new Error('Method not implemented.');
   }

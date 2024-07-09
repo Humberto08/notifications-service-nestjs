@@ -18,41 +18,46 @@ A API foi desenvolvida utilizando o `nestjs` e `nodejs`, junto das seguintes lib
 
 Para executar o projeto:
 
-1 - Clone o respositório: 
+1 - Clone o respositório:
+```bash 
 git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
-
+```
 
 2 - Intale as dependências:
-
-
-```npm install
+```
+npm install
+```
 
 3 - Inicie o servidor em modo de desenvolvimento:
-```npm run start:dev
-
+```
+npm run start:dev
+```
+```
 4 - Acesse o serviço em http://localhost:3000.
-
-
+```
 
 ## Testes
 
-## Executa os testes usando Jest.
-
+Executa os testes usando Jest.
+```
 npm run test
-
-## Executa os testes em modo watch.
+```
+Executa os testes em modo watch.
+```
 npm run test:watch
+```
 
-## Executa os testes e gera um relatório de cobertura.
+Executa os testes e gera um relatório de cobertura.
+```
 npm run test:cov
-
+```
 
  API
 
 Para subir a API, execute:
-
+```
 npm run start:dev
-
+```
 e acesse:http://localhost:3000.
 
 
@@ -79,4 +84,3 @@ Sqlite: https://www.sqlite.org/
   <div id="contatos" align="center">
     <a href="https://www.linkedin.com/in/humberto-luciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-

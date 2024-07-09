@@ -1,9 +1,10 @@
-# NOTIFICATIONS-SERVICE
+# NOTIFICATIONS-SERVICE-IGNITE
+
 ### Quem é o NestJs?
 NestJS é um framework de desenvolvimento de aplicativos Node.js que utiliza TypeScript como linguagem principal. Inspirado por conceitos de programação orientada a objetos (OOP), programação funcional (FP) e arquitetura modular, NestJS facilita a criação de aplicações escaláveis e de fácil manutenção.
 
-
 # Projeto
+
 ## Notifications-service
 
 Um serviço de notificações desenvolvido utilizando o framework NestJS. Este projeto tem como objetivo fornecer uma arquitetura escalável e modular para gerenciar notificações.
@@ -22,6 +23,7 @@ git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
 
 
 2 - Intale as dependências:
+
 ```bash
 npm install
 
@@ -32,10 +34,10 @@ npm run start:dev
 
 
 
-## Testes
+Testes
 
 ## Executa os testes usando Jest.
-``bash
+
 npm run test
 
 ## Executa os testes em modo watch.
@@ -45,13 +47,12 @@ npm run test:watch
 npm run test:cov
 
 
-## API
+ API
 
 Para subir a API, execute:
-```bash
+
 npm run start:dev
 
-```
 e acesse:http://localhost:3000.
 
 

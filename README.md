@@ -24,7 +24,7 @@ git clone <https://github.com/Humberto08/notifications-service-nestjs.git>
 
 2 - Intale as dependências:
 
-```bash
+
 npm install
 
 3 - Inicie o servidor em modo de desenvolvimento:

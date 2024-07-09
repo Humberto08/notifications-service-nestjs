@@ -33,7 +33,9 @@ npm install
 npm run start:dev
 ```
 ```
-4 - Acesse o serviço em http://localhost:3000.
+4 - Acesse o serviço em 
+```
+http://localhost:3000.
 ```
 
 ## Testes

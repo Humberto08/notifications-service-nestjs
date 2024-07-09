@@ -12,6 +12,9 @@ export interface NotificationProps {
 }
 
 export class Notification {
+  unreadAt(unreadAt: any) {
+      throw new Error('Method not implemented.');
+  }
   private _id: string;
   private props: NotificationProps;
 
